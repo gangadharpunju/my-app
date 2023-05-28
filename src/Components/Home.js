@@ -27,6 +27,7 @@ const Home = () => {
             </>
           )
         })}
+        <h1>Git Commitmmdmdmmdm</h1>
     </div>
     </>
   )
