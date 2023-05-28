@@ -57,7 +57,7 @@ function AppBar_Nav() {
               textDecoration: 'none',
             }}
           >
-            My Shopping..
+            Online Shoping
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
